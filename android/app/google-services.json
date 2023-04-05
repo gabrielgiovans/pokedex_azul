@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1064033083273",
+    "project_id": "pokedex-azul",
+    "storage_bucket": "pokedex-azul.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064033083273:android:d076d8f304ab8750abcb58",
+        "android_client_info": {
+          "package_name": "com.pokedex.pokedex_azul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064033083273-k7uk7v0h1vmljle25hogg46qpoaeacms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pokedex.pokedex_azul",
+            "certificate_hash": "638223a66ee7e704c4f37634ecc53d0595f62038"
+          }
+        },
+        {
+          "client_id": "1064033083273-7vct5kcj8jgkl8j4rpn1s03vkn5h1jm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9X2HkLBuo8rWblti5S_FDNTgKDjKnX94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064033083273-7vct5kcj8jgkl8j4rpn1s03vkn5h1jm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
